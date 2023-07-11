@@ -1,9 +1,9 @@
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEtIZCJIOkttQ/profile-displaybackgroundimage-shrink_350_1400/0/1677474546631?e=1694649600&v=beta&t=AVTdWOUoBvd-ZG3nhmPVAnalokIgxfBZl-zTHwCA0ao)
 <h1 align="center">Hi 👋, I'm Manish Kumar Tailor</h1>
 <h3 align="center">A passionate about python-development, data-analysis, and AI-ML.</h3>
-
+<img align="right" alt="Coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish-kt&label=Profile%20views&color=0e75b6&style=flat" alt="manish-kt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manish-kt" alt="manish-kt" /></a> </p>
 
 - 🔭 I’m currently working on [House price estimator](link to project)
 
