@@ -16,6 +16,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Manish-KT/manish-kt](https://github.com/Manish-KT/manish-kt)
 
 - 📫 How to reach me **manishkumartailor092@gmail.com**
+- 🧑‍💻 My Portfolio-Website    <a href="https://linkedin.com/in/manish-kumar-tailor-6564ab22b" target="_blank">
+    <img src="portfolio-icon.png" alt="manish kumar tailor" height="30" width="40">
+  </a>
 
 - ⚡ Fun fact **I am passionate about what I do.**
 
@@ -24,9 +27,6 @@
 <p align="left">
     <a href="https://manish-kt.github.io/portfolio-website/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish kumar tailor" height="30" width="40">
-  </a>
-  <a href="https://linkedin.com/in/manish-kumar-tailor-6564ab22b" target="_blank">
-    <img src="portfolio-icon.png" alt="manish kumar tailor" height="30" width="40">
   </a>
   <a href="https://instagram.com/manish_kt_chill.life" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@manish_kt_chill.life" height="30" width="40">
