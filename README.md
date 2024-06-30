@@ -9,9 +9,9 @@
   <img src="https://komarev.com/ghpvc/?username=manish-kt&label=Profile%20views&color=0e75b6&style=flat" alt="manish-kt"> 
 </p>
 
-- 🔭 I’m currently working on LLMS and Software-Testing.
+- 🔭 I’m currently working on LLMS and Data-Engineering.
 
-- 🌱 I’m currently learning **python data analysis libs, webscraping, rest APIs, much more.**
+- 🌱 I’m currently learning **LLM Development, IBM Professional Data Engineering, much more.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Manish-KT/manish-kt](https://github.com/Manish-KT/manish-kt)
 
@@ -22,8 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/manish-kumar-tailor-6564ab22b" target="_blank">
+    <a href="https://manish-kt.github.io/portfolio-website/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish kumar tailor" height="30" width="40">
+  </a>
+  <a href="https://linkedin.com/in/manish-kumar-tailor-6564ab22b" target="_blank">
+    <img src="portfolio-icon.png" alt="manish kumar tailor" height="30" width="40">
   </a>
   <a href="https://instagram.com/manish_kt_chill.life" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@manish_kt_chill.life" height="30" width="40">
